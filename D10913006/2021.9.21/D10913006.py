@@ -13,5 +13,3 @@ print("(輸出) 年齡：" , 110 - year ,"歲，")
 print("(輸出)身高=" , cm ,"公分" , end = "" )
 print("，(輸出)體重=" , kg ,"公斤" , end = "" )
 print("，(輸出)BMI = " , BMI )
-
-print("hello world")
