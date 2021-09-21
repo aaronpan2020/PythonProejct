@@ -22,13 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="2021.9.21\D10913006.py" />
-    <Compile Include="2021.9.22\d10913042.py">
-      <SubType>Code</SubType>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="2021.9.21\" />
-    <Folder Include="2021.9.22\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
